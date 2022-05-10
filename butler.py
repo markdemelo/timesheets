@@ -1,6 +1,5 @@
 import xlwings as xw
 import tkinter as tk
-import shutil
 import os
 from xlwings.constants import InsertShiftDirection
 from datetime import datetime, timedelta
